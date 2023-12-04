@@ -11,11 +11,20 @@
             "src": "images/imagem512.png",
             "sizes": "512x512",
             "type": "image/png",
+<<<<<<< HEAD
             "purpose": "any maskable"
+=======
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/imagem128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+>>>>>>> 0cead8f6ee79567d957a05175171bad9adfe8b4e
         }
     ],
     "lang": "pt-BR",
-    "start_url": "/formuDoAyrton/index.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
