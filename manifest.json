@@ -25,8 +25,8 @@
         },
         {
             "src":"images/bandeira-de-chegada.png",
-            "type": "image/png"
-
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "lang": "pt-BR",
