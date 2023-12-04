@@ -12,6 +12,21 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
+        },
+        {
+            "src":"images/iconeCarro.png",
+            "type": "image/png"
+
+        },
+        {
+            "src":"images/carro-de-corrida.png",
+            "type": "image/png"
+
+        },
+        {
+            "src":"images/bandeira-de-chegada.png",
+            "type": "image/png"
+
         }
     ],
     "lang": "pt-BR",
