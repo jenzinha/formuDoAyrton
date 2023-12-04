@@ -23,6 +23,6 @@
     "lang": "pt-BR",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "white",
-    "theme_color": "white"
+    "background_color": "#333333",
+    "theme_color": "#ffffff"
 }
