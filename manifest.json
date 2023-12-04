@@ -12,11 +12,16 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
+        },
+        {
+            "src": "images/imagem128.png",
+            "sizes": "128x128",
+            "type": "image/png"
         }
  
     ],
     "lang": "pt-BR",
-    "start_url": "/formuDoAyrton/index.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
