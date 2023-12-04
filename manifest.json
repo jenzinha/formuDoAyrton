@@ -15,16 +15,18 @@
         },
         {
             "src":"images/iconeCarro.png",
+            "sizes":"512x512",
             "type": "image/png"
-
         },
         {
             "src":"images/carro-de-corrida.png",
+            "sizes":"512x512",
             "type": "image/png"
 
         },
         {
             "src":"images/bandeira-de-chegada.png",
+            "sizes":"512x512",
             "type": "image/png",
             "purpose": "any maskable"
         }
