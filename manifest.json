@@ -23,13 +23,8 @@
             "sizes":"512x512",
             "type": "image/png"
 
-        },
-        {
-            "src":"images/bandeira-de-chegada.png",
-            "sizes":"512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
         }
+ 
     ],
     "lang": "pt-BR",
     "start_url": "/index.html",
