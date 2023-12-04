@@ -11,7 +11,7 @@
             "src": "images/imagem512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "maskable"
+            "purpose": " any maskable"
         },
         {
             "src":"images/iconeCarro.png",
@@ -27,7 +27,7 @@
  
     ],
     "lang": "pt-BR",
-    "start_url": "index.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
